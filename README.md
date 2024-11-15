@@ -18,7 +18,7 @@
 
 1. Sklonuj to repozytorium:
    ```bash
-   git clone https://github.com/MaciejBuczkowski/oxido
+   git clone https://github.com/MaciejBuczkowski/oxido.git
    cd oxido
    ```
 2. Zainstaluj wymagane biblioteki
